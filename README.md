@@ -81,7 +81,7 @@ Se genera un token el cual se debe colocar en el encabezado de las peticiones GE
 **URL:**  
 `GET https://prueba-tecnica.up.railway.app/StarWars/films`
 
-### 5. **Obtener lista de personajes**
+### 5. **Obtener lista de vehículos**
 **URL:**  
 `GET https://prueba-tecnica.up.railway.app/StarWars/vehicles`
 
